@@ -2,8 +2,8 @@ require "thug_life/version"
 
 module ThugLife
   class Banger
-    def Slang
-      p `thuglife`
+    def slang
+      `p "thuglife"`
     end
   end
 end
