@@ -3,7 +3,7 @@ require "thug_life/version"
 module ThugLife
   class Banger
     def slang
-      `p "thuglife"`
+      p "thuglife"
     end
   end
 end
